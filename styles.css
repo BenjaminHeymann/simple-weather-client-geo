@@ -1,0 +1,18 @@
+html, body {
+    background: #2980B9;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    min-width: 400px;
+  }
+.title {
+    font-size: 40px;
+    margin-top: 30px;
+
+}
+.weather{
+    font-size: 60px;
+}
+#change {
+    background: rgba(178, 223, 251, .3);
+    cursor: pointer;
+  }
